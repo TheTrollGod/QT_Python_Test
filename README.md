@@ -1,5 +1,5 @@
 # QT_Python_Test
-
+See the link for the docs https://doc.qt.io/qtforpython-6/
 ## Notes for the project:
 
 ## Install the folowing packages if you get the "libegl.so.1" error
